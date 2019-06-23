@@ -2,8 +2,9 @@ Technology used : Nodejs and Mongodb
 port used : 1234
 
 Steps for starting the server - 
-start the mongodb server at port 27017 locally
-Command to start the node server : "npm start"
+1.run "npm install"
+2.start the mongodb server at port 27017 locally
+3.Command to start the node server : "npm start"
 
 
 All the test data to populate the database is inside TestData Folder.
