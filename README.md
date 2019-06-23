@@ -1,3 +1,13 @@
+About Project : 
+There are multiple parallel universes. Each person in a universe has a identity `id` and a power. Power can be a positive or negative integer. All people are divided into families identified by `family_id`. A special creature from 4th dimension has been given a task to 
+1. List families in a particular universe
+2. Check if families with given family_id have same power in all universes. If powers don’t match then family_id is unbalanced
+3. Find unbalanced family_ids
+4. Balance given family_id
+It provides the REST API to store the data of universes and to do the above tasks. 
+
+
+
 Technology used : Nodejs and Mongodb
 port used : 1234
 
