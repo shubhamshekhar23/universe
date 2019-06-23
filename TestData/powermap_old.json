@@ -1,0 +1,26 @@
+[
+    {
+        "personId" : "5d0f3b1c2412272d249a0ff5",
+        "familyId" : "5d0f3b1c2412272d249a0ff4",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    }
+]

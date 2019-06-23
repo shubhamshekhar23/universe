@@ -1,0 +1,183 @@
+[
+  {
+    "family": {
+      "name": "fam1",
+      "details": "this is Family 1"
+    },
+    "persons": [
+      {
+        "name": "p1fam1",
+        "age": 21,
+        "sex": "M"
+      },
+      {
+        "name": "p2fam1",
+        "age": 23,
+        "sex": "F"
+      },
+      {
+        "name": "p3fam1",
+        "age": 20,
+        "sex": "M"
+      }
+    ]
+  },
+  {
+    "family": {
+      "name": "fam2",
+      "details": "this is Family 2"
+    },
+    "persons": [
+      {
+        "name": "p1fam2",
+        "age": 21,
+        "sex": "M"
+      },
+      {
+        "name": "p2fam2",
+        "age": 23,
+        "sex": "F"
+      },
+      {
+        "name": "p3fam2",
+        "age": 20,
+        "sex": "M"
+      },
+      {
+        "name": "p4fam2",
+        "age": 10,
+        "sex": "M"
+      },
+      {
+        "name": "p5fam2",
+        "age": 20,
+        "sex": "M"
+      },
+      {
+        "name": "p6fam2",
+        "age": 28,
+        "sex": "M"
+      },
+      {
+        "name": "p7fam2",
+        "age": 33,
+        "sex": "M"
+      }
+    ]
+  },
+  {
+    "family": {
+      "name": "fam3",
+      "details": "this is Family 1"
+    },
+    "persons": [
+      {
+        "name": "p1fam3",
+        "age": 21,
+        "sex": "M"
+      },
+      {
+        "name": "p2fam3",
+        "age": 23,
+        "sex": "F"
+      },
+      {
+        "name": "p3fam3",
+        "age": 20,
+        "sex": "M"
+      }
+    ]
+  },
+  {
+    "family": {
+      "name": "fam4",
+      "details": "this is Family 1"
+    },
+    "persons": [
+      {
+        "name": "p1fam4",
+        "age": 21,
+        "sex": "M"
+      },
+      {
+        "name": "p2fam4",
+        "age": 23,
+        "sex": "F"
+      },
+      {
+        "name": "p3fam4",
+        "age": 20,
+        "sex": "M"
+      },
+      {
+        "name": "p4fam4",
+        "age": 30,
+        "sex": "M"
+      },
+      {
+        "name": "p5fam4",
+        "age": 40,
+        "sex": "M"
+      }
+    ]
+  },
+  {
+    "family": {
+      "name": "fam5",
+      "details": "this is Family 1"
+    },
+    "persons": [
+      {
+        "name": "p1fam5",
+        "age": 12,
+        "sex": "M"
+      }
+    ]
+  },
+  {
+    "family": {
+      "name": "fam6",
+      "details": "this is Family 1"
+    },
+    "persons": [
+      {
+        "name": "p1fam6",
+        "age": 21,
+        "sex": "M"
+      },
+      {
+        "name": "p2fam6",
+        "age": 23,
+        "sex": "F"
+      },
+      {
+        "name": "p3fam6",
+        "age": 25,
+        "sex": "M"
+      },
+      {
+        "name": "p4fam6",
+        "age": 30,
+        "sex": "M"
+      }
+    ]
+  },
+  {
+    "family": {
+      "name": "fam7",
+      "details": "this is Family 1"
+    },
+    "persons": [
+      {
+        "name": "p1fam7",
+        "age": 21,
+        "sex": "M"
+      },
+      {
+        "name": "p2fam7",
+        "age": 32,
+        "sex": "F"
+      }
+    ]
+  }
+]

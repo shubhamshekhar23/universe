@@ -1,0 +1,602 @@
+[
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff4",
+        "personId": "5d0f3b1c2412272d249a0ff5",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff4",
+        "personId": "5d0f3b1c2412272d249a0ff6",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 5
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff4",
+        "personId": "5d0f3b1c2412272d249a0ff7",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : 5
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : -6
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff8",
+        "personId": "5d0f3b1c2412272d249a0ff9",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -7
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff8",
+        "personId": "5d0f3b1c2412272d249a0ffa",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff8",
+        "personId": "5d0f3b1c2412272d249a0ffb",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : -1
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -2
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff8",
+        "personId": "5d0f3b1c2412272d249a0ffc",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -7
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff8",
+        "personId": "5d0f3b1c2412272d249a0ffd",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 9
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -12
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff8",
+        "personId": "5d0f3b1c2412272d249a0ffe",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 8
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a0ff8",
+        "personId": "5d0f3b1c2412272d249a0fff",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 10
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1000",
+        "personId": "5d0f3b1c2412272d249a1001",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 9
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1000",
+        "personId": "5d0f3b1c2412272d249a1002",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 11
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1000",
+        "personId": "5d0f3b1c2412272d249a1003",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 10
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -13
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1004",
+        "personId": "5d0f3b1c2412272d249a1005",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 5
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -8
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1004",
+        "personId": "5d0f3b1c2412272d249a1006",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1004",
+        "personId": "5d0f3b1c2412272d249a1007",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 7
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1004",
+        "personId": "5d0f3b1c2412272d249a1008",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1004",
+        "personId": "5d0f3b1c2412272d249a1009",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 9
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a100a",
+        "personId": "5d0f3b1c2412272d249a100b",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a100c",
+        "personId": "5d0f3b1c2412272d249a100d",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 9
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a100c",
+        "personId": "5d0f3b1c2412272d249a100e",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 6
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a100c",
+        "personId": "5d0f3b1c2412272d249a100f",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 5
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 4
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 1
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a100c",
+        "personId": "5d0f3b1c2412272d249a1010",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 1
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 2
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1011",
+        "personId": "5d0f3b1c2412272d249a1012",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 3
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 5
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : 2
+        }]
+    },
+    {
+        "familyId": "5d0f3b1c2412272d249a1011",
+        "personId": "5d0f3b1c2412272d249a1013",
+        "univArr" : [{
+            "universeId" : "5d0f32ef2c0a242bf7a008c2",
+            "power" : 2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c3",
+            "power" : -2
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c4",
+            "power" : 7
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c5",
+            "power" : 8
+        },
+        {
+            "universeId" : "5d0f32ef2c0a242bf7a008c6",
+            "power" : -5
+        }]
+    }
+]

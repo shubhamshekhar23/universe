@@ -1,0 +1,277 @@
+[
+  {
+    "familyId": "5d0f56ab1361843044cc8702",
+    "personId": "5d0f56ab1361843044cc8703",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 5 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -5 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 2 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 4 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -6 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8702",
+    "personId": "5d0f56ab1361843044cc8704",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -5 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 5 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 3 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 6 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 8 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8702",
+    "personId": "5d0f56ab1361843044cc8705",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 5 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 5 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 0 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -5 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 3 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8706",
+    "personId": "5d0f56ab1361843044cc8707",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 58 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -11 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -86 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 50 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -70 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8706",
+    "personId": "5d0f56ab1361843044cc8708",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -33 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -94 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -66 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 51 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 84 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8706",
+    "personId": "5d0f56ab1361843044cc8709",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -48 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -43 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 71 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 2 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 59 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8706",
+    "personId": "5d0f56ab1361843044cc870a",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -92 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 20 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 48 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -51 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 0 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8706",
+    "personId": "5d0f56ab1361843044cc870b",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 89 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -46 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 91 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -5 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -8 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8706",
+    "personId": "5d0f56ab1361843044cc870c",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 57 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -79 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -19 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -81 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 0 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8706",
+    "personId": "5d0f56ab1361843044cc870d",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -48 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -72 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 97 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -14 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -17 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc870e",
+    "personId": "5d0f56ab1361843044cc870f",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -3 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -89 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 51 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 82 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -24 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc870e",
+    "personId": "5d0f56ab1361843044cc8710",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -22 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 67 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -58 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -14 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 97 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc870e",
+    "personId": "5d0f56ab1361843044cc8711",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -66 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 36 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 82 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 65 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 65 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8712",
+    "personId": "5d0f56ab1361843044cc8713",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 37 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -13 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -76 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 24 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 91 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8712",
+    "personId": "5d0f56ab1361843044cc8714",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -97 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -30 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -30 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 15 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 61 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8712",
+    "personId": "5d0f56ab1361843044cc8715",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -61 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -21 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -87 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -32 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 13 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8712",
+    "personId": "5d0f56ab1361843044cc8716",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -32 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 57 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 98 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -77 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -40 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8712",
+    "personId": "5d0f56ab1361843044cc8717",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -73 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 60 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 44 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 66 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -73 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc8718",
+    "personId": "5d0f56ab1361843044cc8719",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 75 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 42 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -42 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -65 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -56 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc871a",
+    "personId": "5d0f56ab1361843044cc871b",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -9 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 96 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -93 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 78 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -58 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc871a",
+    "personId": "5d0f56ab1361843044cc871c",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 28 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -34 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -100 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -100 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -4 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc871a",
+    "personId": "5d0f56ab1361843044cc871d",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": -4 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -45 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -4 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -7 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 57 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc871a",
+    "personId": "5d0f56ab1361843044cc871e",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 96 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -96 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 34 },
+      { "universeId": "5d0f56951361843044cc8700", "power": 44 },
+      { "universeId": "5d0f56951361843044cc8701", "power": 83 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc871f",
+    "personId": "5d0f56ab1361843044cc8720",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 96 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": -37 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": -23 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -97 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -80 }
+    ]
+  },
+  {
+    "familyId": "5d0f56ab1361843044cc871f",
+    "personId": "5d0f56ab1361843044cc8721",
+    "univArr": [
+      { "universeId": "5d0f56951361843044cc86fd", "power": 17 },
+      { "universeId": "5d0f56951361843044cc86fe", "power": 22 },
+      { "universeId": "5d0f56951361843044cc86ff", "power": 47 },
+      { "universeId": "5d0f56951361843044cc8700", "power": -23 },
+      { "universeId": "5d0f56951361843044cc8701", "power": -79 }
+    ]
+  }
+]

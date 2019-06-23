@@ -1,0 +1,22 @@
+[
+  {
+    "name": "univ1",
+    "details": "This is universe 1"
+  },
+  {
+    "name": "univ2",
+    "details": "This is universe 2"
+  },
+  {
+    "name": "univ3",
+    "details": "This is universe 3"
+  },
+  {
+    "name": "univ4",
+    "details": "This is universe 4"
+  },
+  {
+    "name": "univ5",
+    "details": "This is universe 5"
+  }
+]
