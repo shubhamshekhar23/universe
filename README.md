@@ -16,6 +16,8 @@ Steps for starting the server -
 2. Start the mongodb server at port 27017 locally
 3. Command to start the node server : "npm start"
 
+Schema Creation - 
+I have considered the possibility that There can be millions of parralel universes and each universe can have billions of people but in each family , there can not be a lot of members
 
 All the test data to populate the database is inside TestData Folder.
 
